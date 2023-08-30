@@ -8,6 +8,13 @@ You agreed to help and meet with them to discuss requirements.
 
 $~~~~~~~~~~$
 
+## Skills Used
+
+- Looker Studio
+- Analytical Thinking
+- Data Interpretation
+- Clear Communication
+
 ## The Requirements
 
 A list of the KPIs required to asses the performance of the company blog:
