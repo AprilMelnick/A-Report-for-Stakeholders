@@ -8,9 +8,9 @@ You agreed to help and meet with them to discuss requirements.
 
 $~~~~~~~~~~$
 
-## Requirements
+## The Requirements
 
-Here is the list of information requested:
+A list of the KPIs required to asses the performance of the company blog:
 - See the total number of pageviews of each of the blog posts
 - See how popular the blog overview page was
 - See which channels performed best in terms of traffic
@@ -19,11 +19,13 @@ Here is the list of information requested:
 - See the conversion rate of pageviews turning to applications (goal completions)
 - See if organic or paid campaigns led to more traffic
 
+The above questions must be presented in a report which lets the stakeholder analyze the results in one glance.
+
 $~~~~~~~~~~$
 
 ## Solutions
 
-Using Looker Studio for data exploration, I created a report which answered all of the above questions.
+Using Looker Studio for data exploration, I created a report which answered all of the KPI related questions.
 
 $~~~~~~~~~~$
 
