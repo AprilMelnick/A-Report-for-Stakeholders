@@ -10,7 +10,7 @@ $~~~~~~~~~~$
 
 ## Requirements
 
-- See what the total number of pageviews of each of the blog posts
+- See the total number of pageviews of each of the blog posts
 - See how popular the blog overview page was
 - See which channels performed best in terms of traffic
 - See which channels performed best in terms of conversions
