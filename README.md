@@ -20,6 +20,12 @@ $~~~~~~~~~~$
 
 $~~~~~~~~~~$
 
+## Answers
+
+Using Looker Studio for data exploration, I created a report which answered all of the above questions.
+
+$~~~~~~~~~~$
+
 ## Key Learnings
 
 - How to use Looker Studio exclusively for data exploration by using filters.
