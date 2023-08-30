@@ -10,6 +10,7 @@ $~~~~~~~~~~$
 
 ## Requirements
 
+Here is the list of information requested:
 - See the total number of pageviews of each of the blog posts
 - See how popular the blog overview page was
 - See which channels performed best in terms of traffic
@@ -20,7 +21,7 @@ $~~~~~~~~~~$
 
 $~~~~~~~~~~$
 
-## Answers
+## Solutions
 
 Using Looker Studio for data exploration, I created a report which answered all of the above questions.
 
