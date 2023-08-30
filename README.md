@@ -1,5 +1,7 @@
 # Reports and Stakeholder Management
 
+$~~~~~~~~~~$
+
 ## The Scenario
 
 You are working as a marketing analyst at WBS CODING SCHOOL.
