@@ -13,7 +13,9 @@ $~~~~~~~~~~$
 - Looker Studio
 - Analytical Thinking
 - Data Interpretation
-- Clear Communication
+- Effective Presentation
+
+$~~~~~~~~~~$
 
 ## The Requirements
 
